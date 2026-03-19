@@ -11,8 +11,8 @@
 - 그래프(Graph) - LIFO
 - 노드(Node)
 - 간선(Edge)
-- BFS
-- DFS
+- BFS (Breadth First Search) - 너비 우선 탐색(가까운 노드부터 탐색)
+- DFS 
 - 재귀 (Recursion)
 - 방문 (Visited)
 - LIFO(Last In First OUT) / FIFO(First In First Out)
